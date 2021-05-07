@@ -1,0 +1,69 @@
+{
+    "item_response": {
+        "code": 200,
+        "status": "OK",
+        "message": "Data returned"
+    },
+    "item_attributes": {
+        "title": "Bad Boys For Life",
+        "upc": "043396549210",
+        "ean": "0043396549210",
+        "parent_category": "DVD",
+        "category": "DVD",
+        "brand": "Sony",
+        "model": "D54921D",
+        "mpn": "D54921D",
+        "manufacturer": "Sony Pictures Home Entertainment",
+        "publisher": "Sony Pictures Home Entertainment",
+        "asin": "B082BX12L6",
+        "color": "",
+        "size": "",
+        "weight": "0.17 Pounds",
+        "image": "https://images.barcodespider.com/upcimage/043396549210.jpg",
+        "description": ""
+    },
+    "Stores": [{
+        "store_name": "Amazon US",
+        "title": "Bad Boys For Life",
+        "image": "https://m.media-amazon.com/images/I/51Cnc46XkLL.jpg",
+        "price": "12.99",
+        "currency": "USD",
+        "link": "https://www.barcodespider.com/getstore/MDQzMzk2NTQ5MjEwfEFtYXpvbiBVUw,,",
+        "updated": "2021-04-07 00:05:43"
+    }]
+}
+
+{
+    "item_response": {
+        "code": 200,
+        "status": "OK",
+        "message": "Data returned"
+    },
+    "item_attributes": {
+        "title": "Disney Frozen Snowflakes and Sparkles",
+        "upc": "9781474821483",
+        "ean": "09781474821483",
+        "parent_category": "Paperback",
+        "category": "Book",
+        "brand": "Parragon",
+        "model": "illustrations",
+        "mpn": "illustrations",
+        "manufacturer": "Parragon Books Ltd",
+        "publisher": "Parragon Books Ltd",
+        "asin": "1474821480",
+        "color": "",
+        "size": "",
+        "weight": "0.75 Pounds",
+        "image": "https://images.barcodespider.com/upcimage/9781474821483.jpg",
+        "description": ""
+    },
+    "Stores": [{
+        "store_name": "Amazon US",
+        "title": "Disney Frozen Snowflakes and Sparkles",
+        "image": "https://m.media-amazon.com/images/I/51owWtaUu0L._SL500_.jpg",
+        "price": "7.62",
+        "currency": "USD",
+        "link": "https://www.barcodespider.com/getstore/OTc4MTQ3NDgyMTQ4M3xBbWF6b24gVVM,",
+        "updated": "2021-05-01 05:22:45"
+    }]
+}
